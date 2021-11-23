@@ -1,7 +1,9 @@
 # Dillon Koch
 
 <p align="center">
-  <img src="PAM.png" width=500 href="https://github.com/DillonKoch/Sports_Betting"/>
+    <a href="https://github.com/DillonKoch/Sports_Betting">
+        <img src="PAM.png" width=500/>
+    </a>
 </p>
 
 ## [LinkedIn](https://www.linkedin.com/in/dillon-koch/)
